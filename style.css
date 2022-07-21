@@ -1,0 +1,28 @@
+body{
+  font-family: poppins;
+}
+h3{
+  text-align: center;
+}
+#sucess{
+  text-align: center;
+  color: white;
+  font-weight: 800;
+  width: 300px;
+  margin: auto;
+  background-color: green;
+  transition: all 0.3s ease;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  margin:20px  auto;
+}
+.btn-wrapper{
+  display: none;
+  position: relative;
+
+  text-align: center;
+}
